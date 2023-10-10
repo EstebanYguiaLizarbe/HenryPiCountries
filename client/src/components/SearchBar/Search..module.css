@@ -1,0 +1,27 @@
+.input {
+    border: none; 
+    background-color: white; 
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    width: 500px;
+    outline: none;
+  }
+  
+
+  .button {
+    background-color: #007bff; 
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    margin-left: 15px;
+    font-size: 1.5rem;
+  }
+  
+  .busqueda{
+    display: flex;
+  }
+
+  
